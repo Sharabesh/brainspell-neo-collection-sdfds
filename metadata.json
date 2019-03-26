@@ -4,7 +4,11 @@
     "inclusion_criteria": [
         "dsfsd"
     ],
-    "search_to_pmids": {},
+    "search_to_pmids": {
+        "dsfsd": [
+            "19146819"
+        ]
+    },
     "tags": [
         "Attention Shifting"
     ],
